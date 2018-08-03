@@ -1,9 +1,0 @@
-﻿Respond: user:-266894240 bot:harry ip:127.0.0.1 (~introductions) 1  /what is your name? ==> 내 이름은 해리에요.  When:Aug03'18-13:50:22 Why:~introductions.3.0.~control.9.0   F:3 
-Respond: user:-266894240 bot:harry ip:127.0.0.1 (~introductions) 2  /hello ==> OK.  When:Aug03'18-13:51:02 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:1 
-Respond: user:-266894240 bot:harry ip:127.0.0.1 (~introductions) 3  /hello ==> Right.  When:Aug03'18-13:51:19 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:3 
-Respond: user:-266894240 bot:harry ip:127.0.0.1 (~introductions) 4  /what is your name? ==> I don't remember.  When:Aug03'18-13:51:27 Why:~honest_response.31.0.~quibble_all.12.0   F:700 
-Respond: user:-266894240 bot:harry ip:127.0.0.1 (~introductions) 5  /fuck ==> Have you been here before?  When:Aug03'18-13:51:28 Why:~introductions.2.0.~control.9.0   F:3 
-Respond: user:-266894240 bot:harry ip:127.0.0.1 (~childhood) 6  /yes ==> Did you run away from home when you were little?  When:Aug03'18-13:51:33 Why:~childhood.0.0.~control.9.0   F:5 
-Respond: user:-266894240 bot:harry ip:127.0.0.1 (~childhood) 7  /띠용? ==> I forget.  When:Aug03'18-13:51:34 Why:~honest_response.30.0.~quibble_all.12.0   F:6 
-Respond: user:-266894240 bot:harry ip:127.0.0.1 (~childhood) 8  /lunch ==> I ran away once, but my parents found me and dragged me back.  When:Aug03'18-13:51:42 Why:~childhood.1.0=RUNAWAY.~control.9.0   F:3 
-Respond: user:-266894240 bot:harry ip:127.0.0.1 (~childhood) 9  /huh ==> What scared you as a kid?  When:Aug03'18-13:52:02 Why:~childhood.2.0.~control.9.0   F:2 
