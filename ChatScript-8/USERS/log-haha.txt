@@ -1,0 +1,5 @@
+﻿Respond: user:haha bot:harry ip:127.0.0.1 (~introductions) 1  hello ==> Have you been here before?  When:Aug03'18-11:31:10 Why:~introductions.2.0.~control.9.0   F:5 
+Respond: user:haha bot:harry ip:127.0.0.1 (~introductions) 2  yes ==> Welcome back!  When:Aug03'18-11:31:15 Why:~introductions.2.1   F:2 
+Respond: user:haha bot:harry ip:127.0.0.1 (~introductions) 3  okay ==> All right!  When:Aug03'18-11:31:19 Why:~honest_response.2.0.~quibble_all.12.0   F:1 
+Respond: user:haha bot:harry ip:127.0.0.1 (~childhood) 4  hello ==> Did you run away from home when you were little?  When:Aug03'18-12:43:01 Why:~childhood.0.0.~control.9.0   F:3 
+Respond: user:haha bot:harry ip:127.0.0.1 (~childhood) 5  no ==> You should try it some time. Travel broadens the mind.  When:Aug03'18-12:43:05 Why:~childhood.0.2   F:2 

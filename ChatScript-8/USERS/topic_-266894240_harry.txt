@@ -1,0 +1,41 @@
+USERS/topic_-266894240_harry.txt
+jul2116 Aug03'18-13:50:22 Aug03'18-13:52:02 0 |
+1 9 ~childhood !Mb BX!F!Is*Ok3  DY 0 22 22 0 # start, input#, rejoindertopic,rejoinderid (a:  ( [ dark darkness ] ) Did you use a nightlite? ),checksum
+~introductions ~childhood #pending
+~childhood + 2 BX!F!Is*Ok3 oaaa 9 0 0 
+~introductions + 1 O&*2W da 5 0 0 
+#`end topics
+$singleresponse=1
+$botprompt=HARRY: 
+$userprompt=-266894240: >
+$cs_control_main=~control
+$cs_token=67337983
+$cs_login=-266894240
+$cs_bot=Harry
+$cs_randindex=939
+$cs_trace=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context ~childhood 8 RUNAWAY 
+ /what is your name?
+ /hello
+ /hello
+ /what is your name?
+ /fuck
+ /yes
+ /띠용?
+ /lunch
+ /huh
+#`end user
+ 내 이름은 해리에요.
+ OK.
+ Right.
+ I don't remember.
+ Have you been here before?
+ Did you run away from home when you were little?
+ I forget.
+ I ran away once, but my parents found me and dragged me back.
+ What scared you as a kid?
+#`end chatbot

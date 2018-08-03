@@ -1,0 +1,33 @@
+USERS/topic_haha_harry.txt
+jul2116 Aug03'18-11:31:10 Aug03'18-12:43:05 0 |
+1 5 0 DY 0 22 22 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~childhood #pending
+~childhood + 2 BX!F!Is*Ok3 iaaa 5 0 0 
+~introductions + 1 O&*2W ca 2 0 0 
+#`end topics
+$singleresponse=1
+$botprompt=HARRY: 
+$userprompt=haha: >
+$cs_control_main=~control
+$cs_token=67337983
+$cs_login=haha
+$cs_bot=Harry
+$cs_randindex=343
+$cs_trace=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ hello
+ yes
+ okay
+ hello
+ no
+#`end user
+ Have you been here before?
+ Welcome back!
+ All right!
+ Did you run away from home when you were little?
+ You should try it some time. Travel broadens the mind.
+#`end chatbot

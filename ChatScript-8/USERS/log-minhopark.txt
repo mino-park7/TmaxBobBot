@@ -1,0 +1,23 @@
+﻿Start: user:minhopark bot:harry ip: rand:2766 (~introductions) 0 ==> Welcome to ChatScript.  When:Aug03'18-10:26:11 Version:7.73 Build0:Apr27'18-11:12:01 Build1:Jun09'18-09:28:13 0:Aug03'18-10:26:11 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:minhopark bot:harry ip: (~introductions) 1   hi ==> Have you been here before?  When:Aug03'18-10:26:13 Why:~introductions.2.0.~control.9.0   F:7 
+Respond: user:minhopark bot:harry ip: (~introductions) 2   what is your name ==> My name is Harry.  When:Aug03'18-10:26:18 Why:~introductions.3.0.~control.9.0   F:5 
+Respond: user:minhopark bot:harry ip: (~childhood) 3   okay ==> Did you run away from home when you were little?  When:Aug03'18-10:26:23 Why:~childhood.0.0.~control.9.0   F:2 
+Respond: user:minhopark bot:harry ip: (~childhood) 4   No I havn't ==> Fine.  When:Aug03'18-10:26:34 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:6 
+Respond: user:minhopark bot:harry ip: (~childhood) 5   Do you know Kimchi? ==> I ran away once, but my parents found me and dragged me back.  When:Aug03'18-10:26:46 Why:~childhood.1.0=RUNAWAY.~control.9.0   F:33 
+Respond: user:minhopark bot:harry ip: (~childhood) 6   Answer to me! ==> Indeed.  When:Aug03'18-10:26:57 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:4 
+Respond: user:minhopark bot:harry ip: (~childhood) 7   Indeed? I don't want change my job ==> What scared you as a kid?  When:Aug03'18-10:27:09 Why:~childhood.2.0.~keywordless.2.0   F:8 
+Respond: user:minhopark bot:harry ip: (~childhood) 8   you ==> I was scared of machines. I had vivid dreams of the Terminator robots.  When:Aug03'18-10:27:15 Why:~childhood.3.0=SCARE.~control.9.0   F:3 
+Start: user:minhopark bot:harry ip: rand:2775 (~introductions) 8 ==> Hello, again.  When:Aug03'18-10:44:38 Version:7.73 Build0:Apr27'18-11:12:01 Build1:Jun09'18-09:28:13 0:Aug03'18-10:26:11 F:0 P:Aug03'18-10:27:15 Why:~introductions.0.0.~control.0.0 
+Command: :build Harry
+Start: user:minhopark bot:harry ip: rand:2776 (~introductions) 8 ==> Hi.  When:Aug03'18-10:44:49 Version:7.73 Build0:Apr27'18-11:12:01 Build1:Aug03'18-10:44:47 0:Aug03'18-10:26:11 F:0 P:Aug03'18-10:27:15 Why:~introductions.0.0.~control.0.0 
+Respond: user:minhopark bot:harry ip: (~introductions) 9   what is your name ==> 내 이름은 해리에요.  When:Aug03'18-10:44:55 Why:~introductions.3.0.~control.9.0   F:4 
+Start: user:minhopark bot:harry ip:127.0.0.1 rand:2776 (~introductions) 9 ==> Hi, again.  When:Aug03'18-10:49:51 Version:7.73 Build0:Apr27'18-11:12:01 Build1:Aug03'18-10:44:47 0:Aug03'18-10:26:11 F:0 P:Aug03'18-10:44:55 Why:~introductions.0.0.~control.0.0 
+Respond: user:minhopark bot:harry ip:127.0.0.1 (~childhood) 10  heelo  ==> Did you have a happy childhood?  When:Aug03'18-10:49:56 Why:~childhood.4.0.~control.9.0   F:19 
+Respond: user:minhopark bot:harry ip:127.0.0.1 (~introductions) 11  no  ==> I don't know what to say.  When:Aug03'18-10:50:03 Why:~control.9.0   F:8 
+Respond: user:minhopark bot:harry ip:127.0.0.1 (~introductions) 12  no  ==> No? Why don't you agree with me?  When:Aug03'18-10:50:05 Why:~honest_response.1.0.~quibble_all.12.0   F:1 
+Respond: user:minhopark bot:harry ip:127.0.0.1 (~introductions) 13  no  ==> Do you think I care if you disagree?  When:Aug03'18-10:50:07 Why:~honest_response.1.0.~quibble_all.12.0   F:2 
+Respond: user:minhopark bot:harry ip:127.0.0.1 (~introductions) 14  no  ==> I don't know what to say.  When:Aug03'18-10:50:09 Why:~control.9.0   F:2 
+Respond: user:minhopark bot:harry ip:127.0.0.1 (~introductions) 15  no  ==> No? And why not?  When:Aug03'18-10:50:12 Why:~honest_response.1.0.~quibble_all.12.0   F:2 
+Respond: user:minhopark bot:harry ip:127.0.0.1 (~introductions) 16  fuck  ==> I don't know what to say.  When:Aug03'18-10:50:14 Why:~control.9.0   F:1 
+Start: user:minhopark bot:harry ip:127.0.0.1 rand:2783 (~introductions) 16 ==> Glad you came back.  When:Aug03'18-11:01:27 Version:7.73 Build0:Apr27'18-11:12:01 Build1:Aug03'18-10:44:47 0:Aug03'18-10:26:11 F:1533261012-13.1.0.15.12.0 P:Aug03'18-10:50:14 Why:~introductions.0.0.~control.0.0 
+Respond: user:minhopark bot:harry ip:127.0.0.1 (~introductions) 17  okay  ==> I don't know what to say.  When:Aug03'18-11:01:33 Why:~control.9.0   F:2 

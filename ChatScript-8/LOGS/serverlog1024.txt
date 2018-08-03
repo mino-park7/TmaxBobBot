@@ -1,0 +1,73 @@
+﻿evserver child fork requests: 0
+  evserver: running pid: 9586
+System startup createsystem Fri Aug 03 10:48:54 2018
+Server ChatScript EVSERVER Version 7.73 pid: 9586 64 bit MACH compiled Dec 11 2017 12:40:44 host=local
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=68205  fact=129733  heap=1151212 Compiled:Apr27'18-11:12:01 by version 8.0 "0"
+Build1:  dict=148  fact=15  heap=335460 Compiled:Aug03'18-10:44:47 by version 7.73 "Harry"
+Used 60MB: dict 268,860 (23659kb) hashdepths 74122.68760.39331.18975.8343.3530.1335.486.162.65.15.1.2.1. words 268860 unusedbuckets 74122 fact 215,292 (10334kb) heap 15062kb
+           buffer (6400kb) cache (5000kb)
+Free 113MB: dict 1,828,290 fact 584,708 stack/heap 84,937KB 
+
+    *** Server WIDE OPEN to :command use.
+
+
+======== Began EV server pid 9586 7.73 compiled Dec 11 2017 12:40:44 on host local port 1024 at Fri Aug 03 10:48:55 2018 serverlog:1 userlog: 1
+evserver: parent ready (pid = 9586), fork=0
+ServerPre: pid: 9586 minhopark ()  Aug 03 10:49:51 2018
+Start: user:minhopark bot: ip:127.0.0.1 (~introductions) 9 ==> Hi, again.  When:Aug03 10:49:51 5ms Version:7.73 Build0:Apr27'18-11:12:01 Build1:Aug03'18-10:44:47 Why:~introductions.0.0.~control.0.0 
+ServerPre: pid: 9586 minhopark () heelo  Aug 03 10:49:56 2018
+Respond: user:minhopark bot: ip:127.0.0.1 (~childhood) 10 heelo   ==> Did you have a happy childhood?  When:Aug03 10:49:56 19ms Why:~childhood.4.0.~control.9.0 
+ServerPre: pid: 9586 minhopark () no  Aug 03 10:50:03 2018
+Respond: user:minhopark bot: ip:127.0.0.1 (~introductions) 11 no   ==> I don't know what to say.  When:Aug03 10:50:03 10ms Why:~control.9.0 
+ServerPre: pid: 9586 minhopark () no  Aug 03 10:50:05 2018
+Respond: user:minhopark bot: ip:127.0.0.1 (~introductions) 12 no   ==> No? Why don't you agree with me?  When:Aug03 10:50:05 2ms Why:~honest_response.1.0.~quibble_all.12.0 
+ServerPre: pid: 9586 minhopark () no  Aug 03 10:50:07 2018
+Respond: user:minhopark bot: ip:127.0.0.1 (~introductions) 13 no   ==> Do you think I care if you disagree?  When:Aug03 10:50:07 2ms Why:~honest_response.1.0.~quibble_all.12.0 
+ServerPre: pid: 9586 minhopark () no  Aug 03 10:50:09 2018
+Respond: user:minhopark bot: ip:127.0.0.1 (~introductions) 14 no   ==> I don't know what to say.  When:Aug03 10:50:09 2ms Why:~control.9.0 
+ServerPre: pid: 9586 minhopark () no  Aug 03 10:50:12 2018
+Respond: user:minhopark bot: ip:127.0.0.1 (~introductions) 15 no   ==> No? And why not?  When:Aug03 10:50:12 2ms Why:~honest_response.1.0.~quibble_all.12.0 
+ServerPre: pid: 9586 minhopark () fuck  Aug 03 10:50:14 2018
+Respond: user:minhopark bot: ip:127.0.0.1 (~introductions) 16 fuck   ==> I don't know what to say.  When:Aug03 10:50:14 2ms Why:~control.9.0 
+ServerPre: pid: 9586 minhopark ()  Aug 03 11:01:27 2018
+Start: user:minhopark bot: ip:127.0.0.1 (~introductions) 16 ==> Glad you came back.  When:Aug03 11:01:27 3ms Version:7.73 Build0:Apr27'18-11:12:01 Build1:Aug03'18-10:44:47 Why:~introductions.0.0.~control.0.0 
+ServerPre: pid: 9586 minhopark () okay  Aug 03 11:01:33 2018
+Respond: user:minhopark bot: ip:127.0.0.1 (~introductions) 17 okay   ==> I don't know what to say.  When:Aug03 11:01:33 5ms Why:~control.9.0 
+ServerPre: pid: 9586 haha () hello Aug 03 11:31:10 2018
+Respond: user:haha bot: ip:127.0.0.1 (~introductions) 1 hello  ==> Have you been here before?  When:Aug03 11:31:10 7ms Why:~introductions.2.0.~control.9.0 
+ServerPre: pid: 9586 haha () yes Aug 03 11:31:15 2018
+Respond: user:haha bot: ip:127.0.0.1 (~introductions) 2 yes  ==> Welcome back!  When:Aug03 11:31:15 2ms Why:~introductions.2.1 
+ServerPre: pid: 9586 haha () okay Aug 03 11:31:19 2018
+Respond: user:haha bot: ip:127.0.0.1 (~introductions) 3 okay  ==> All right!  When:Aug03 11:31:19 2ms Why:~honest_response.2.0.~quibble_all.12.0 
+ServerPre: pid: 9586 haha () hello Aug 03 12:43:01 2018
+Respond: user:haha bot: ip:127.0.0.1 (~childhood) 4 hello  ==> Did you run away from home when you were little?  When:Aug03 12:43:01 3ms Why:~childhood.0.0.~control.9.0 
+ServerPre: pid: 9586 haha () no Aug 03 12:43:05 2018
+Respond: user:haha bot: ip:127.0.0.1 (~childhood) 5 no  ==> You should try it some time. Travel broadens the mind.  When:Aug03 12:43:05 2ms Why:~childhood.0.2 
+ServerPre: pid: 9586 350109519 () heelo Aug 03 13:48:28 2018
+Respond: user:350109519 bot: ip:127.0.0.1 (~introductions) 1 heelo  ==> Fine.  When:Aug03 13:48:28 38ms Why:~honest_response.45.0=GRUNT.~quibble_all.12.0 
+ServerPre: pid: 9586 350109519 () hi Aug 03 13:48:32 2018
+Respond: user:350109519 bot: ip:127.0.0.1 (~introductions) 2 hi  ==> Have you been here before?  When:Aug03 13:48:32 3ms Why:~introductions.2.0.~control.9.0 
+ServerPre: pid: 9586 350109519 () yes Aug 03 13:48:37 2018
+Respond: user:350109519 bot: ip:127.0.0.1 (~introductions) 3 yes  ==> Welcome back!  When:Aug03 13:48:37 4ms Why:~introductions.2.1 
+ServerPre: pid: 9586 350109519 () What is your name? Aug 03 13:48:44 2018
+Respond: user:350109519 bot: ip:127.0.0.1 (~introductions) 4 What is your name?  ==> 내 이름은 해리에요.  When:Aug03 13:48:44 7ms Why:~introductions.3.0.~control.9.0 
+ServerPre: pid: 9586 -266894240 () /what is your name? Aug 03 13:50:22 2018
+Respond: user:-266894240 bot: ip:127.0.0.1 (~introductions) 1 /what is your name?  ==> 내 이름은 해리에요.  When:Aug03 13:50:22 4ms Why:~introductions.3.0.~control.9.0 
+ServerPre: pid: 9586 -266894240 () /hello Aug 03 13:51:02 2018
+Respond: user:-266894240 bot: ip:127.0.0.1 (~introductions) 2 /hello  ==> OK.  When:Aug03 13:51:02 6ms Why:~honest_response.45.0=GRUNT.~quibble_all.12.0 
+ServerPre: pid: 9586 -266894240 () /hello Aug 03 13:51:19 2018
+Respond: user:-266894240 bot: ip:127.0.0.1 (~introductions) 3 /hello  ==> Right.  When:Aug03 13:51:19 4ms Why:~honest_response.45.0=GRUNT.~quibble_all.12.0 
+ServerPre: pid: 9586 -266894240 () /what is your name? Aug 03 13:51:26 2018
+Respond: user:-266894240 bot: ip:127.0.0.1 (~introductions) 4 /what is your name?  ==> I don't remember.  When:Aug03 13:51:27 701ms Why:~honest_response.31.0.~quibble_all.12.0 
+ServerPre: pid: 9586 -266894240 () /fuck Aug 03 13:51:28 2018
+Respond: user:-266894240 bot: ip:127.0.0.1 (~introductions) 5 /fuck  ==> Have you been here before?  When:Aug03 13:51:28 4ms Why:~introductions.2.0.~control.9.0 
+ServerPre: pid: 9586 -266894240 () /yes Aug 03 13:51:33 2018
+Respond: user:-266894240 bot: ip:127.0.0.1 (~childhood) 6 /yes  ==> Did you run away from home when you were little?  When:Aug03 13:51:33 7ms Why:~childhood.0.0.~control.9.0 
+ServerPre: pid: 9586 -266894240 () /띠용? Aug 03 13:51:34 2018
+Respond: user:-266894240 bot: ip:127.0.0.1 (~childhood) 7 /띠용?  ==> I forget.  When:Aug03 13:51:34 8ms Why:~honest_response.30.0.~quibble_all.12.0 
+ServerPre: pid: 9586 -266894240 () /lunch Aug 03 13:51:42 2018
+Respond: user:-266894240 bot: ip:127.0.0.1 (~childhood) 8 /lunch  ==> I ran away once, but my parents found me and dragged me back.  When:Aug03 13:51:42 4ms Why:~childhood.1.0=RUNAWAY.~control.9.0 
+ServerPre: pid: 9586 -266894240 () /huh Aug 03 13:52:02 2018
+Respond: user:-266894240 bot: ip:127.0.0.1 (~childhood) 9 /huh  ==> What scared you as a kid?  When:Aug03 13:52:02 4ms Why:~childhood.2.0.~control.9.0 
